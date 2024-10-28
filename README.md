@@ -8,8 +8,8 @@ This project involves analyzing sales data from the AdventureWorks and Budget da
 ## Dataset Information
 1. AdventureWorks_Database.xlsx
 ### Fields include:
-Date: Specific transaction dates.
-Year, Quarter, Month: Temporal data indicating the year, quarter, and month.
-Fiscal Year, Fiscal Quarter, Fiscal Month: Financial periods.
-Weekday/Weekend: Indicates whether the transaction took place on a weekday or weekend.
+-Date: Specific transaction dates.
+-Year, Quarter, Month: Temporal data indicating the year, quarter, and month.
+-Fiscal Year, Fiscal Quarter, Fiscal Month: Financial periods.
+-Weekday/Weekend: Indicates whether the transaction took place on a weekday or weekend.
 
