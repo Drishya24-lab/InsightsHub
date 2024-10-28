@@ -10,7 +10,7 @@ This project analyzes sales data from the AdventureWorks database and a budget d
 2. **Budget.xlsx**: Contains budgeted sales data across different categories and months.
 
 ## File Structure
-/content ├── Budget Sales data.zip # Compressed file containing raw budget sales data ├── cleaned_budget_data.csv # Cleaned dataset ready for analysis ├── adventure_data.csv # Processed sales data from AdventureWorks ├── reshaped_budget.csv # Reshaped budget data for visualization
+/content ├── Budget Sales data.zip ├── cleaned_budget_data.csv ├── adventure_data.csv ├── reshaped_budget.csv
 
 ## Data Preparation
 - The **Budget.xlsx** file is read while skipping the first three rows to avoid metadata.
