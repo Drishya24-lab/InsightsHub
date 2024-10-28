@@ -25,11 +25,11 @@ This project involves analyzing sales data from the AdventureWorks and Budget da
      - **Grand Total**: Total budgeted sales amount for the year.
 
 ## Project Structure
-.
-├── Budget Sales Analysis.ipynb         # Jupyter notebook with all analysis code
-├── cleaned_budget_data.csv             # Cleaned budget data after preprocessing
-├── adventure_data.csv                  # Exported AdventureWorks data after processing
-├── reshaped_budget.csv                 # Reshaped budget data for use in Tableau
+
+├── Budget Sales Analysis.ipynb        
+├── cleaned_budget_data.csv             
+├── adventure_data.csv                  
+├── reshaped_budget.csv                
                           
 
 ## Project Steps
